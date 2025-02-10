@@ -102,8 +102,8 @@ def count_tokens(file_path, model="cl100k_base"):
 
 def main():
     fn = "/home/michael/gitrepos/IBG/references/Bevere02 A isca de Satanas.pdf"
-    start_page = 11
-    end_page = 17
+    start_page = 18
+    end_page = 27
     text = pdf_extract_text(fn, start_page=start_page, end_page=end_page)
     if text:
         # Generate the output filename

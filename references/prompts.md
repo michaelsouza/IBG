@@ -1,0 +1,2 @@
+Prompt:
+"Resuma o seguinte texto em tópicos utilizando a linguagem Markdown. Organize o conteúdo de forma clara e estruturada, destacando os principais pontos com bullets. Certifique-se de que o resumo seja adequado para leitura rápida, especialmente em dispositivos móveis."
